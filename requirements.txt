@@ -8,3 +8,5 @@ python-magic
 requests
 tenacity==8.0.1
 tgcrypto==1.2.3
+flask
+flask_restful
