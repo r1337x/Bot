@@ -1,0 +1,1 @@
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/r1337x/Bot)
